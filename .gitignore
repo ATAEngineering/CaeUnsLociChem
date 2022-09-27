@@ -1,0 +1,8 @@
+mkplugin.cfg
+module.mk
+modulelocal.mk
+postbuild-sample.bat
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*~
